@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261449283422",
+    "project_id": "fire-itsqmet",
+    "storage_bucket": "fire-itsqmet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261449283422:android:944b74143a0546e6c341cf",
+        "android_client_info": {
+          "package_name": "com.example.taller1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpifJsze2Ih-vNR9tYsq_yRuPHGpWoals"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261449283422:android:f0d9caa3c6e5ecb8c341cf",
+        "android_client_info": {
+          "package_name": "com.proyecto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpifJsze2Ih-vNR9tYsq_yRuPHGpWoals"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
